@@ -1,59 +1,10 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
-<svg
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
-   version="1.1"
-   id="svg5"
-   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
-   sodipodi:docname="drawing.svg"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
-  <sodipodi:namedview
-     id="namedview7"
-     pagecolor="#505050"
-     bordercolor="#ffffff"
-     borderopacity="1"
-     inkscape:pageshadow="0"
-     inkscape:pageopacity="0"
-     inkscape:pagecheckerboard="1"
-     inkscape:document-units="mm"
-     showgrid="false"
-     inkscape:zoom="0.77771465"
-     inkscape:cx="260.37828"
-     inkscape:cy="306.66775"
-     inkscape:window-width="1284"
-     inkscape:window-height="1082"
-     inkscape:window-x="273"
-     inkscape:window-y="240"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="g123" />
-  <defs
-     id="defs2" />
-  <g
-     inkscape:label="Layer 1"
-     inkscape:groupmode="layer"
-     id="layer1">
-    <g
-       transform="matrix(1.7102838,0,0,1.7072467,-151.16764,-134.78127)"
-       id="g123">
-      <path
-         id="path52"
-         style="fill:#211d1d;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.035278"
-         d="m 113.45112,105.52837 v 10.04149 l -10.04199,-10.04149 10.04199,-10.042235 10.04224,10.042235 z m 0,-23.850397 -23.850187,23.850397 23.850187,23.84965 10.04329,-10.04294 v -13.80671 h 13.80676 L 113.45112,81.677973"
-         inkscape:transform-center-x="8.1649485"
-         inkscape:transform-center-y="-22.453608" />
+<svg xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" version="1.1" id="svg5" inkscape:version="1.1.2 (b8e25be833, 2022-02-05)" sodipodi:docname="drawing.svg" viewBox="2.08 4.66 81.58 81.44">
+  <sodipodi:namedview id="namedview7" pagecolor="#505050" bordercolor="#ffffff" borderopacity="1" inkscape:pageshadow="0" inkscape:pageopacity="0" inkscape:pagecheckerboard="1" inkscape:document-units="mm" showgrid="false" inkscape:zoom="0.77771465" inkscape:cx="260.37828" inkscape:cy="306.66775" inkscape:window-width="1284" inkscape:window-height="1082" inkscape:window-x="273" inkscape:window-y="240" inkscape:window-maximized="0" inkscape:current-layer="g123"/>
+  <defs id="defs2"/>
+  <g inkscape:label="Layer 1" inkscape:groupmode="layer" id="layer1">
+    <g transform="matrix(1.7102838,0,0,1.7072467,-151.16764,-134.78127)" id="g123">
+      <path id="path52" style="fill: rgb(33, 29, 29); fill-opacity: 1; fill-rule: nonzero; stroke: none; stroke-width: 0.035278; --darkreader-inline-fill:#f6f2e9; --darkreader-inline-stroke:none;" d="m 113.45112,105.52837 v 10.04149 l -10.04199,-10.04149 10.04199,-10.042235 10.04224,10.042235 z m 0,-23.850397 -23.850187,23.850397 23.850187,23.84965 10.04329,-10.04294 v -13.80671 h 13.80676 L 113.45112,81.677973" inkscape:transform-center-x="8.1649485" inkscape:transform-center-y="-22.453608" data-darkreader-inline-fill="" data-darkreader-inline-stroke=""/>
     </g>
-    <rect
-       style="fill:none;stroke-width:0.264583"
-       id="rect318"
-       width="14.628866"
-       height="3.0618556"
-       x="-55.453606"
-       y="82.329895" />
+    <rect style="fill: none; stroke-width: 0.264583; --darkreader-inline-fill:none;" id="rect318" width="14.628866" height="3.0618556" x="-55.453606" y="82.329895" data-darkreader-inline-fill=""/>
   </g>
 </svg>
